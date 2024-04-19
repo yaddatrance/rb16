@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"1711725";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"SUPPLIER";"PHOENIX CONTACT";"";
+"TraceParts.PartStatus";"Published";"";
+"ALLIED_STOCK_NUMBER";"70054425";"";
+"TraceParts.PartNumber";"10-12012018-124616";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"2 way high current vertical terminal";"";
+"TraceParts.InstanceId";"10-12012018-1246165RB2ANAXXAJ7DXI7B81K23JKD";"";
+"TraceParts.PartTitle";"2 way high current vertical terminal";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"ALLIED_ELECTRONICS:10-12012018-124616";"";

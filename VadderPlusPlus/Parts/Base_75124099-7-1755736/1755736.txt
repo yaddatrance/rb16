@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-03112010-121378";"";
+"REFERENCE";"1755736";"";
+"TraceParts.PartTitle";"MSTBVA 2,5/..-G";"";
+"TraceParts.InstanceId";"10-03112010-121378380XXMQQ9F6W463BSB3QKKZ5X";"";
+"DESIGN";"MSTBVA 2,5/ 2-G-5,08 - Base strip";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"PHOENIX CONTACT";"";
+"TraceParts.PartVersion";"1.1.3";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"PHOENIX_CONTACT:/1/105/1051/10511/105110/10-03112010-121378";"";
